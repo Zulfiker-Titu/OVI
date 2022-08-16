@@ -23,7 +23,7 @@ http://10.252.253.254/hls/pogo.m3u8
 #http://103.139.171.5:5001/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
 #http://144.217.70.181:9587/hin2/POGO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Hungama_India.png" group-title="Kids",Hangama Kids
-http://103.179.246.243:8000/playlist.m3u8
+http://103.179.246.243:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://www.btsprohd.com/wp-content/uploads/2022/03/20220330_151125.jpg" group-title="Kids",Sonic Bangla
 http://tv.googledrivelinks.com:8088/live.php?c=Sonic_Bangla&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="Kids",Sonic Hindi
