@@ -48,7 +48,7 @@ http://10.252.253.254/hls/duranta.m3u8
 #http://103.55.144.46:80/hls/Gazi-TV.m3u8
 http://10.252.253.254/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV HD (Opt-2)
-http://172.16.50.250:8081/live/mystream1/chunks.m3u8
+http://stream.serverbd247.com:80/hls/sky-live.m3u8
 #http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=836d24b1016ae4e2307a62bdd0150f50df34b135-f3085c90b3266d6c6fe4236b5251cb9a-1659081764-1659070964
 #http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
 #http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
