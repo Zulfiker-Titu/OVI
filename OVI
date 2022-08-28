@@ -106,6 +106,7 @@ http://stream.amrbd.com:8082/SonySix/tracks-v1a1/mono.m3u8?token=eb29bdfc997dda2
 #http://103.135.133.3/hls/stream3.m3u8
 #http://103.135.133.21:80/hls/stream3.m3u8
 http://10.252.253.254/hls/stersports1hd.m3u8
+http://103.109.56.116:80/live/skyfeed1002/index.m3u8
 #http://103.55.144.46:80/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-2.jpg" group-title="Sports",Star Sports 2
 #http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
