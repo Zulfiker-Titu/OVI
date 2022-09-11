@@ -39,7 +39,7 @@ http://10.252.253.254/hls/duranta.m3u8
 #http://stream.amrbd.com:8082/Duronto_TV/tracks-v1a1/mono.m3u8?token=17b2789269fc6fdac9864462dc1ecec0f333d99a-8b9b9449a022228b5aac5aa36439aaf0-1655068819-1655058019
 #http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
 #http://rv.imax.re:80/live/3Tst9ZqgUA/2dqWR5IiMh/83777.m3u8
-EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Entertainment",Nagorik TV
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Entertainment",Nagorik TV
 http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=3fbb22bf76686d16d31d7cd15a578f6b5a5473d9-8fe2b6922a6d3518715b54ee07a49d59-1655483323-1655472523
 #http://10.16.100.245:80/hindi/n@g0riktv_1st0p.m3u8
 #http://tvserver.aliflailabd.com:8989/nagorik-tv/index.m3u8
