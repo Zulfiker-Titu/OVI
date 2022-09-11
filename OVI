@@ -39,14 +39,20 @@ http://10.252.253.254/hls/duranta.m3u8
 #http://stream.amrbd.com:8082/Duronto_TV/tracks-v1a1/mono.m3u8?token=17b2789269fc6fdac9864462dc1ecec0f333d99a-8b9b9449a022228b5aac5aa36439aaf0-1655068819-1655058019
 #http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
 #http://rv.imax.re:80/live/3Tst9ZqgUA/2dqWR5IiMh/83777.m3u8
+EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Entertainment",Nagorik TV
+http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=3fbb22bf76686d16d31d7cd15a578f6b5a5473d9-8fe2b6922a6d3518715b54ee07a49d59-1655483323-1655472523
+#http://10.16.100.245:80/hindi/n@g0riktv_1st0p.m3u8
+#http://tvserver.aliflailabd.com:8989/nagorik-tv/index.m3u8
+http://aliflailabd.live:8989/nagorik-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV HD (Opt-1)
+http://aliflailabd.live:8989/gazi-tv/index.m3u8
 #http://103.167.190.250:80/hls/Gazi-TV.m3u8
 #http://103.124.110.34:8082/gtv/index.m3u8
 #http://td.chowdhury-shaheb.com:80/live/gazitv/chunks.m3u8
 #http://103.136.200.246:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
 #http://103.55.144.46:80/hls/Gazi-TV.m3u8
-http://10.252.253.254/hls/Gazi-TV.m3u8
+#http://10.252.253.254/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV HD (Opt-2)
 http://stream.serverbd247.com:80/hls/sky-live.m3u8
 #http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=836d24b1016ae4e2307a62bdd0150f50df34b135-f3085c90b3266d6c6fe4236b5251cb9a-1659081764-1659070964
@@ -262,10 +268,6 @@ http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8?token=803295b555361b61741
 #http://tvserver.aliflailabd.com:8989/ntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment",NTV UK
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Entertainment",Nagorik TV
-http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=3fbb22bf76686d16d31d7cd15a578f6b5a5473d9-8fe2b6922a6d3518715b54ee07a49d59-1655483323-1655472523
-#http://10.16.100.245:80/hindi/n@g0riktv_1st0p.m3u8
-#http://tvserver.aliflailabd.com:8989/nagorik-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="News",News 24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #http://tvserver.aliflailabd.com:8989/news24-hd/index.m3u8
