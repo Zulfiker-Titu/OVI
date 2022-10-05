@@ -88,7 +88,7 @@ http://103.99.249.107:81/play/a02k
 #http://103.159.4.38:9191/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #https://nayeem-parvez.tk/api/redboxapi.php?url=http://f.mtfxg.xyz:8081/us1new/tsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-3)
-http://stream.serverbd247.com:80/hls/serverbd247.com-tsportshd.m3u8
+http://iptv.hplink.com.bd:8080/hls/sports.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/11/skynetsports.jpg" group-title="Sports",Sky Net Sports HD
 #http://tvserver.aliflailabd.com:8989/SKY-NET-HD/index.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
