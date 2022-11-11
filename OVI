@@ -338,7 +338,8 @@ http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
 #http://89.187.162.109/STARJALSHA/mono.m3u8
 #http://103.135.133.3/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-02)
-http://103.16.24.54:8080/channel5/index.m3u8
+http://45.127.244.7:8080/hls/channel12.m3u8
+#http://103.16.24.54:8080/channel5/index.m3u8
 #http://103.136.200.246:8082/Star-Jalsha/index.m3u8
 #http://103.167.190.250:80/hls/starjalsha.m3u8
 #http://10.252.253.254/hls/starjalsha.m3u8
