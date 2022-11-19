@@ -336,7 +336,8 @@ http://208.86.19.13:81/907.stream/index.m3u8
 http://10.16.100.208:8082/hindi/$tarjasl@_local.m3u8
 #https://live.durbinlive.com/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-01)
-http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
+http://103.78.255.178:8080/starjalsha/tracks-v1a1/mono.m3u8
+#http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
 #http://172.16.50.2:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #http://89.187.162.109/STARJALSHA/mono.m3u8
 #http://103.135.133.3/hls/stream1.m3u8
@@ -357,7 +358,8 @@ http://45.127.244.7:8080/hls/channel13.m3u8
 http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
 #http://103.166.253.222/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD
-http://45.127.244.7:8080/hls/channel10.m3u8
+http://103.78.255.178:8080/zeebangla/tracks-v1a1/mono.m3u8
+#http://45.127.244.7:8080/hls/channel10.m3u8
 #http://103.60.172.106:8080/ZeeBangla/tracks-v1a1/mono.m3u8
 #http://tv.googledrivelinks.com:8088/live.php?c=Zee_Bangla&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
