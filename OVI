@@ -237,9 +237,10 @@ http://103.153.154.34:80/hls/jalshamovies.m3u8
 #http://103.78.255.178:8080/zeebangla/tracks-v1a1/mono.m3u8
 #http://45.127.244.7:8080/hls/channel10.m3u8
 #http://103.60.172.106:8080/ZeeBangla/tracks-v1a1/mono.m3u8
-#http://tv.googledrivelinks.com:8088/live.php?c=Zee_Bangla&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Zee_Bangla&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD
-http://tv2.efiberbd.net:8080/live/mkaua/stream/5.m3u8
+http://techmaxlive.ml:80/live.php?c=Zee_Bangla_HD&q=1200&e=.m3u8
+#http://tv2.efiberbd.net:8080/live/mkaua/stream/5.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
 #http://103.16.24.54:8080/channel4/index.m3u8
 #http://10.252.253.254/hls/zeebanglahd.m3u8
@@ -250,7 +251,7 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/5.m3u8
 #http://45.86.190.64:25461/Ad2AfbUPsy/XWbpgxtVUZ/34395?play_token=NUeKtxw77N&token=TURYAhZYEAwSVgAACVBTAgJWBgMPCVAGCAJSUFcIBFMGVQZQBwcLBwNGTxBLF0AGVA9uD1IbCQUFB1IDShsTFlMUbwoBEggUCVRTCghREE8XFlgLUxsJBwcHUgVSC15RAEoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 #http://103.166.253.222/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema
-http://103.153.154.34:80/hls/zee-bangla-cinema.m3u8
+http://techmaxlive.ml/live.php?c=Zee_Bangla_Cinema&q=1200&e=.m3u8
 #http://172.16.50.2:8082//ZeeBanglacinema/tracks-v1/mono.m3u8
 #http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #http://103.167.190.250:80/hls/zee-bangla-cinema.m3u8
