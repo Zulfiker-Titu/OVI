@@ -10,6 +10,7 @@ http://techmaxlive.ml:80/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Children TV",Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/41xBDgM/download-jpeg.jpg" group-title="Entertainment",Toffee LIVE
+http://live.hoihulloor.com:80/live/hull1003/index.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dL6CqdR/Sports18.png" group-title="Entertainment",Sports 18 LIVE
@@ -19,6 +20,7 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV HD
 http://103.143.235.50:8080/101/101.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD
+http://live.hoihulloor.com:80/live/hull1000/index.m3u8
 http://103.143.235.50:8080/102/102.m3u8
 http://tv.maguraplex.net:8000/live/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1584249768494055424/WaXch8Xm_400x400.jpg" group-title="Sports",Sony Sports 1
