@@ -23,6 +23,8 @@ http://103.143.235.50:8080/101/101.m3u8
 http://live.hoihulloor.com:80/live/hull1000/index.m3u8
 http://103.143.235.50:8080/102/102.m3u8
 http://tv.maguraplex.net:8000/live/tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-tsn4-191.png" group-title="Sports",TSN 4 HD
+https://ovocloud.site/live/abr_s-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1584249768494055424/WaXch8Xm_400x400.jpg" group-title="Sports",Sony Sports 1
 http://45.127.244.7:8080/hls/channel5.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1584249768494055424/WaXch8Xm_400x400.jpg" group-title="Sports",Sony Sports 2
