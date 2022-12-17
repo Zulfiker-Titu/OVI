@@ -176,8 +176,6 @@ http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8?token=803295b555361b61741
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Entertainment",Nagorik TV
 http://172.16.50.2:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
-#http://10.16.100.245:80/hindi/n@g0riktv_1st0p.m3u8
-#http://tvserver.aliflailabd.com:8989/nagorik-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="News",News 24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #http://tvserver.aliflailabd.com:8989/news24-hd/index.m3u8
