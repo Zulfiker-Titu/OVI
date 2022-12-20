@@ -347,7 +347,7 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 http://tv.googledrivelinks.com:8088/live.php?c=ETV_Bangla_News&q=1200&e=.m3u8
 #https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Channel-Logo_zee-24-ghanta_280-X-200.jpg" group-title="News",Zee 24 Ghanta
-http://tv.googledrivelinks.com:8088/live.php?c=24_Ghanta_TV&q=1200&e=.m3u8
+http://208.86.19.13:81/901.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VcDPW7/R-Bangla-jpeg.jpg" group-title="News",R. Bangla
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYbkqQx/in-high-news-3156.webp" group-title="News",HIGH NEWS
