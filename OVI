@@ -303,13 +303,13 @@ http://172.16.50.2:8082/TLC_World/index.m3u8
 #http://103.55.144.46:80/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music",ATN Music
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://amarnet.xyz/uploads/tv_image/sm/gaan-bangla-tv.jpg" group-title="Music",Gaan Bangla
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5Gvpy5DsstU/X7kf6ZZ2idI/AAAAAAAAA7Q/I-sJBwG1SVkojbmk05YmQorGb6nEoWlgACPcBGAYYCw/w800/Gaan-Bangla-TV-Live.png" group-title="Music",Gaan Bangla
 http://208.86.19.13:81/612.stream/index.m3u8
 #http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 #http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg" group-title="Music",Bangla 21 TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4f3nN6p/images-jpeg.jpg" group-title="Music",Bangla 21 TV
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV2ny2x/images-jpeg-1.jpg" group-title="Music",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/bangla-talkies-logo-100x100.jpg" group-title="Music",Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
