@@ -223,32 +223,21 @@ http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD
 http://12.1.1.1:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/travel-xp-hd-logo.jpg" group-title="Documentary",travel xp HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
-
+https://tv.googledrivelinks.com/live.php?c=Travel_XP_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD
-http://172.16.50.2:8082//Animal_Planet/tracks-v1a1/mono.m3u8
-#http://tv2.ebox.live:8080/live/animale-planet.m3u8
-#http://103.167.190.250:80/hls/animalplanent.m3u8
-#http://103.55.144.46:80/hls/animalplanent.m3u8
+http://12.1.1.1:8082/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC HD
-http://172.16.50.2:8082/TLC_World/index.m3u8
-#http://103.167.190.250:80/hls/tlc.m3u8
-#http://103.55.144.46:80/hls/tlc.m3u8
+http://12.1.1.1:8082/TLC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music",ATN Music
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5Gvpy5DsstU/X7kf6ZZ2idI/AAAAAAAAA7Q/I-sJBwG1SVkojbmk05YmQorGb6nEoWlgACPcBGAYYCw/w800/Gaan-Bangla-TV-Live.png" group-title="Music",Gaan Bangla
-http://208.86.19.13:81/612.stream/index.m3u8
-#http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
-#http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
+http://208.86.19.13:81/678.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4f3nN6p/images-jpeg.jpg" group-title="Music",Bangla 21 TV
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV2ny2x/images-jpeg-1.jpg" group-title="Music",Sangeet Bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+https://livetv-channels.b-cdn.net/8050/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/bangla-talkies-logo-100x100.jpg" group-title="Music",Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-#EXTINF:-1 tvg-logo="https://durbinlive.com/uploads/tv_image/sm/dhoom-music.jpg" group-title="Music",Dhoom Bangla Music
-#http://14.199.164.20:4001/play/a0sa/index.m3u8
-#http://mytv.fun:8080/live/DublMedLink/h07ns7cf1c/10599.m3u8
 #EXTINF:-1 tvg-logo="https://www.tbn24.com/public/website_logo.png" group-title="Entertainment",TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://rplus.in/wp-content/uploads/2019/01/mobile-logo-rplus-news.png" group-title="News",R Plus News
