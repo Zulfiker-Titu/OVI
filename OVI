@@ -36,13 +36,13 @@ http://208.86.19.13:81/711.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1584249768494055424/WaXch8Xm_400x400.jpg" group-title="Sports",Sony Sports LIVE
 https://dai.google.com:443/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1584249768494055424/WaXch8Xm_400x400.jpg" group-title="Sports",Sony Sports 1
-http://tv.maguraplex.net:8000/live/tsports/index.m3u8
+https://rana-pkz.ga/CH/play.m3u8?tid=ngrp:nxd_sony_ten_1_hd_all&e=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1584249768494055424/WaXch8Xm_400x400.jpg" group-title="Sports",Sony Sports 2
-http://223.29.231.66:8000/play/a00v/index.m3u8
+https://rana-pkz.ga/CH/play.m3u8?tid=ngrp:nxd_sony_ten_2_hd_all&e=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1584249768494055424/WaXch8Xm_400x400.jpg" group-title="Sports",Sony Sports 3
-https://tv.googledrivelinks.com/live.php?c=Six_HD&q=1200&e=.m3u8
+https://rana-pkz.ga/CH/play.m3u8?tid=ngrp:nxd_sony_ten_3_hd_all&e=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1584249768494055424/WaXch8Xm_400x400.jpg" group-title="Sports",Sony Sports 5
-http://45.127.244.7:8080/hls/channel4.m3u8
+https://rana-pkz.ga/CH/play.m3u8?tid=ngrp:nxd_sony_six_hd_all&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-1-logo.jpg" group-title="Sports",Star Sports 1
 http://77.68.8.133/ptvsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-2.jpg" group-title="Sports",Star Sports 2
