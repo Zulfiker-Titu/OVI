@@ -13,11 +13,17 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dL6CqdR/Sports18.png" group-title="Entertainment",Sports 18 LIVE
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/57259f157945587.Y3JvcCwxMDg4LDg1MSw0MTQsMTYx.jpg" group-title="Sports",BPL LIVE
+https://webdi.openhd.lol:443/ddy1/premium597/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Entertainment",Nagorik TV
+http://cdn01.palki.tv/live/NagorikTV-M/tracks-v1a1/mono.m3u8?token=ad5bda4470c8e8cc002390141fb3e3f0
+http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=803295b555361b61741787a0853c4ad000613d1b-199c87c1ac48f399a4c1f9fa4b5f7e44-1655483232-1655472432
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV HD
-http://live.hoihulloor.com:80/live/voya1002/index.m3u8
+http://103.127.93.82:8234/ggggtvv/tracks-v1a1/mono.m3u8
 http://12.1.1.1:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD
-http://live.hoihulloor.com:80/live/fcfun1000/index.m3u8
+http://cdn01.palki.tv/live/TSports-M/tracks-v1a1/mono.m3u8?token=ad5bda4470c8e8cc002390141fb3e3f0
+http://live.hoihulloor.com:80/live/voya1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-tyc-sports-internacional-cl-1246.png" group-title="Sports",TyC Sports
@@ -116,8 +122,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8?token=803295b555361b61741787a0853c4ad000613d1b-199c87c1ac48f399a4c1f9fa4b5f7e44-1655483232-1655472432
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Entertainment",NTV UK
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Entertainment",Nagorik TV
-http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=803295b555361b61741787a0853c4ad000613d1b-199c87c1ac48f399a4c1f9fa4b5f7e44-1655483232-1655472432
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="News",News 24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="News",Nexus
