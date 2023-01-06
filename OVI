@@ -212,7 +212,7 @@ http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/796389553535733760/hTrWZPPt_400x400.jpg" group-title="Assamese",News18 Assam
 https://bdixtv24.tk/live.php?c=News_18_Assam&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1222813656448000000/X9Xi0Nkf_400x400.jpg" group-title="Assamese",Pratidin Time
+#EXTINF:-1 tvg-logo="https://images.assettype.com/pratidintime/2022-02/4fd96697-23b7-4f77-9576-8285e4e75c06/live_tv__2_.webp" group-title="Assamese",Pratidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962979203439198210/P4Mdl5Du_400x400.jpg" group-title="Assamese",News Live
 https://cdn.pride-east.in:443/smartstream-us/newslivembr/newslivembr.smil/chunklist_w1134718099_b400000.m3u8
@@ -232,7 +232,7 @@ http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 https://bdixtv24.tk/live.php?c=Ramdhenu&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Food",Asian Food Network
 https://vips-livecdn.fptplay.net/hda1/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://foodfood.b-cdn.net/assets/images/logo/logo.png" group-title="Food",Food Food
+#EXTINF:-1 tvg-logo="https://www.foodfood.com/assets/images/logo/logo.png" group-title="Food",Food Food
 https://bdixtv24.tk/live.php?c=Food_Food&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Star World
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
